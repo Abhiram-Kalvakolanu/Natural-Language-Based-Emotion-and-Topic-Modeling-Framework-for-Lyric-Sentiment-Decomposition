@@ -1,4 +1,7 @@
 # Natural-Language-Based Emotion and Topic Modeling Framework for Lyric Sentiment Decomposition
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/09a09ec8-9237-489a-8c76-7e64708da8ee" alt="Image" width="500">
+</div>
 
 This project focuses on analyzing song lyrics to predict emotions and uncover topics using advanced natural language processing (NLP) techniques. The framework includes preprocessing, clustering, topic modeling, and emotion prediction using deep learning. The main goal is to build a robust system capable of decomposing the sentiment of lyrics into meaningful emotions and themes.
 
